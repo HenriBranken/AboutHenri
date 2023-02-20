@@ -36,6 +36,8 @@ git commit
 ```
 If this is new to you, please watch "Introduction to GitHub" videos on YouTube (for example, [this](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) video).  Also, don't forget the Git [documentation](https://git-scm.com/doc).
 
+If you want to browse the webapp with _GitHub Pages_ doing the hosting, please visit this [**link**](https://henribranken.github.io/AboutHenri/).
+
 ### Folder Structure
 ![folder_structure](https://user-images.githubusercontent.com/35679864/220106731-d681d9f8-82e6-48d6-a66e-ab97f15fd7c8.png)
 
