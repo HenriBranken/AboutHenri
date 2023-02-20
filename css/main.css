@@ -1172,8 +1172,6 @@ header.navigation ul.nav-items li.nav-item > a:visited {
   font-family: "Cinzel Decorative", cursive;
 }
 header.navigation ul.nav-items li.nav-item > a:hover {
-  text-decoration: underline;
-  text-underline-offset: 7px;
   color: rgba(235, 206, 152, 0.92);
 }
 header.navigation ul.nav-items li.active {
