@@ -1,0 +1,29 @@
+// Number Variables.
+let myFirstNumber = 5;
+let mySecondNumber = 10;
+
+//String Variables.
+let myFirststring = "long";
+let mySecondString = "short"
+
+//Boolean Variable.
+let myBoolean = true
+
+//Output the result of multiplying the two numerical values.
+myFirstNumber;
+mySecondNumber;
+console.log("myFirstNumber * mySecondNumber = " + myFirstNumber*mySecondNumber);
+
+//Concatenate the two string variables and output the result.
+myFirststring = "long";
+mySecondString = "short";
+console.log(myFirststring + mySecondString);
+
+//Output of multiline string using template literals. 
+console.log(`${myBoolean}
+${myFirstNumber}
+${mySecondNumber}
+${myFirstNumber*mySecondNumber}
+${myFirststring} 
+${mySecondString}.`)
+console.log(`${myFirststring} ${mySecondString}.`);
